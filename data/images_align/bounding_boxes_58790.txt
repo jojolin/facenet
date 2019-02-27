@@ -1,0 +1,2 @@
+./data/images_align/Anthony_Hopkins/Anthony_Hopkins_0001.png 51 40 196 219
+./data/images_align/Anthony_Hopkins/Anthony_Hopkins_0002.png 50 40 192 210

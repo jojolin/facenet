@@ -1,0 +1,2 @@
+./data/images_align/zw/zw2.png 69 0 173 121
+./data/images_align/zw/zw.png 55 14 172 154

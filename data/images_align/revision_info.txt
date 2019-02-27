@@ -1,0 +1,6 @@
+arguments: src/align/align_dataset_mtcnn.py ./data/images/ ./data/images_align --image_size 182 --margin=44 --gpu_memory_fraction 0.8
+--------------------
+tensorflow version: 1.12.0
+--------------------
+git hash: 096ed770f163957c1e56efa7feeb194773920f6e
+--------------------

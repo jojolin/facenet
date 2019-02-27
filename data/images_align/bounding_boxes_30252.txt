@@ -1,0 +1,2 @@
+./data/images_align/zsh/zsh2.png 22 12 214 250
+./data/images_align/zsh/zsh.png 17 14 200 250

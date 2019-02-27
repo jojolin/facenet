@@ -1,0 +1,2 @@
+./data/images_align/sl/sl.png 62 14 195 172
+./data/images_align/sl/sl2.png 14 13 145 173
