@@ -92,3 +92,11 @@ ENV/
 
 # PyCharm project setting
 .idea
+
+data/images/jn
+data/images/nk
+data/images/zy
+
+data/test_images
+#
+data/images_align
